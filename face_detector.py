@@ -2,7 +2,7 @@
 __author__ = 'Song Chae Young'
 __date__ = 'Jan.17, 2023'
 __email__ = '0.0yeriel@gmail.com'
-__fileName__ = 'me_not_me_detector.py'
+__fileName__ = 'face_detector.py'
 __github__ = 'SongChaeYoung98'
 __status__ = 'Development'
 '''
