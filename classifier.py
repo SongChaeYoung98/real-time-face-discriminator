@@ -2,7 +2,7 @@
 __author__ = 'Song Chae Young'
 __date__ = 'Jan.13, 2023'
 __email__ = '0.0yeriel@gmail.com'
-__fileName__ = 'me_not_me_classifier.py'
+__fileName__ = 'classifier.py'
 __github__ = 'SongChaeYoung98'
 __info__ = 'You can use it as an example to build your own classifier.'
 __status__ = 'Production'
